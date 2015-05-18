@@ -1,0 +1,8 @@
+Information for	was_dem	Digital Elevation Model
+Name of Location	:was_dem
+DEM Format		:tif
+No. of Cols		:570	 Pixels
+No. of Rows		:684	 Pixels
+Resolution		:91.6663	 meters
+North Edge Value	:-111.9046	
+South Edge Value	:40.8821	
